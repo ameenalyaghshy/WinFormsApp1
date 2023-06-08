@@ -9,5 +9,10 @@
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         backcolor=color.red
+        
     End Sub
+    
+    private sub vv
+        msgbox("ps")
+    end sub 
 End Class
